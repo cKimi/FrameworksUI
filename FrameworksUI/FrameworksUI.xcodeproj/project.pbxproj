@@ -15,6 +15,7 @@
 		0F6175D22B235767004519FF /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6175D12B235767004519FF /* FrameworkDetailView.swift */; };
 		0F6175D42B23591B004519FF /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6175D32B23591B004519FF /* AFButton.swift */; };
 		0F6175D62B235B8B004519FF /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6175D52B235B8B004519FF /* FrameworkGridViewModel.swift */; };
+		0F6175D82B236224004519FF /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6175D72B236224004519FF /* SafariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		0F6175D12B235767004519FF /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		0F6175D32B23591B004519FF /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		0F6175D52B235B8B004519FF /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
+		0F6175D72B236224004519FF /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,10 +65,11 @@
 				0F12F1BA2B223D2F004537D9 /* Framework.swift */,
 				0F12F1BC2B223E49004537D9 /* FrameworkGridView.swift */,
 				0F6175D12B235767004519FF /* FrameworkDetailView.swift */,
+				0F6175D72B236224004519FF /* SafariView.swift */,
 				0F6175D32B23591B004519FF /* AFButton.swift */,
+				0F6175D52B235B8B004519FF /* FrameworkGridViewModel.swift */,
 				0F12F1B02B2239D7004537D9 /* Assets.xcassets */,
 				0F12F1B22B2239D7004537D9 /* Preview Content */,
-				0F6175D52B235B8B004519FF /* FrameworkGridViewModel.swift */,
 			);
 			path = FrameworksUI;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				0F6175D42B23591B004519FF /* AFButton.swift in Sources */,
 				0F12F1AD2B2239D5004537D9 /* FrameworksUIApp.swift in Sources */,
 				0F6175D62B235B8B004519FF /* FrameworkGridViewModel.swift in Sources */,
+				0F6175D82B236224004519FF /* SafariView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
